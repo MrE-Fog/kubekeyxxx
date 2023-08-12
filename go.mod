@@ -12,7 +12,7 @@ require (
 	github.com/containerd/containerd v1.7.0
 	github.com/containers/image/v5 v5.21.1
 	github.com/deckarep/golang-set v1.8.0
-	github.com/estesp/manifest-tool/v2 v2.0.3
+	github.com/estesp/manifest-tool/v2 v2.0.8
 	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/go-logr/logr v1.2.4
 	github.com/google/go-cmp v0.5.9
@@ -90,7 +90,6 @@ require (
 	github.com/coredns/corefile-migration v1.0.20 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/deislabs/oras v0.9.0 // indirect
 	github.com/docker/cli v23.0.1+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v24.0.5+incompatible // indirect
@@ -248,6 +247,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f // indirect
 	oras.land/oras-go v1.2.3 // indirect
+	oras.land/oras-go/v2 v2.0.0 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/kustomize/api v0.13.2 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.14.1 // indirect
